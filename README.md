@@ -1,0 +1,2 @@
+# myconfigserverexample
+# test config file
